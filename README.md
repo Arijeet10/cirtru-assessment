@@ -1,6 +1,44 @@
 # Cirtru Frontend Dev Assessment Round
 
+## Live URL - https://cirtru-assessment.vercel.app/
 
+Follow these steps to run the app on your system:
+
+1. Copy the GitHub Repository URL.
+
+```bash
+https://github.com/Arijeet10/cirtru-assessment.git
+```
+
+2. Go to the directory on your local server and open terminal.
+
+3. Type git clone and paste the url you copied earlier as shown below.
+
+```bash
+git clone https://github.com/Arijeet10/cirtru-assessment.git
+```
+
+4. Press Enter to clone the repository in your local folder.
+
+5. Then, open the cloned repository from terminal using cd command.
+
+6. Ensure you have installed the required dependencies by executing the following command.
+
+```bash
+npm install
+# or
+yarn
+```
+
+7. Now, run the app by executing the following command.
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+8. Finally, go to the provided url in the terminal to use the app.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
